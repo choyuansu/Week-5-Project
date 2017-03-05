@@ -53,8 +53,8 @@ The following **required** functionality is completed:
   * [x]  Required: Your messages are automatically decrypted
 
 8\. Identify the Double Agent
-  * [ ]  Required: Decrypt as many email messages as possible
-  * [ ]  Required: Identify the double agent: ____________________
+  * [x]  Required: Decrypt as many email messages as possible
+  * [x]  Required: Identify the double agent: natasha
 
 The following objectives are **optional**:
 
@@ -76,7 +76,7 @@ The following objectives are **optional**:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/OwkUP2y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -99,25 +99,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-Objective 2:
-z6CGPtvwsLLhFN6OCf+w9kgZgNMGnoHqTx0woSt7MxbQq3R8wW68GR7QnYvIoP2c
-
-
-Objective 6:
-dS9qeHtfmI5y+LEYxksz14mWk8g5XqPkay+a8UtJSk+x6C1rX+ZN6h8AsEiPoG/ob2qkbjV3k1Wf++Sdjl5zgT/OshxTiPn18aUfkLnfbrmXpUm6sUU9eI2otNN7LXgw5nN1ixydXm3RCWKBW7KqA0Ir/fBRqYzGVry6YPS8iwqS8GK59NX64SHJBh4+FAl73QfL5VPbcwqZCkQh6aZ5oELw0+hGtw/zyiK+h9Ar9iy9TobP3ZtZmmFgP/2JEGVv26FxkvfM5DlIz/7cOKL2uKEk3mOtoY+2EWEcuYMHvcCQOJ7g/ISSrJUstf/Pxb+HwlR1cM9HOZgXzRhttCqxBQ==
-
-public key:
------BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6AwrOixawZpfzpnz+6q1
-2HULoS1AEq2ieewH8dVh/AnvRw/qgN5tMRjBpzsLe+52ivduUg02/5PXOVIM2dAV
-WeeiplEzfsrh/Uhrn2b6M7T6LCMohk4+2lJe8uRAFTvCLU3JO1ZZxmDAIzxU4nXh
-bn6lNKr1gdnRwse7tX54Vr+lj229ISbqLR7gA1bcT3xZb7wB+ajmeTvVFCAIa4pb
-R5YyV81SOmuYTpl1YAMf3ML3p3i+AL/HrhC5wo3s3tyzH+fRAKnGmhjOhIDi3fer
-NAq/TZlxBw7sTD7eoVTBcZxb4+nwo8wcou4zGTi8zyvoJxfptPIKh5ldxw/zW1DC
-WwIDAQAB
------END PUBLIC KEY-----
-
---- BEGIN SIGNATURE ---
-KwjWd4RLRItjVI6WKahxs7ssfa1xxwd685WjEgXHrXHpnQIH6mhNdtfmvmu64M+/laZqbgiKDw0Cbm6egVGCSRMRML81c9I4erVAIeCy+W0ckslPvpFqhy8yAJH/ceZxMGyGK1klTeewkMgEnDHGCkMY895twYI4iPf7gH2bj6uxpQ2juNSNGleBx4yhWEsjx5su4dT/u5tzMwx30C0N9Rcpy3IVSP+IsZ9apvKxXqRp/RaoLNb67J1iLdTOGhWHrA7L0rIraMqS7vKsgjmxKLKxp3/sTBIEel4o4FeD47qNdQi6vNpYirYqmqTlzvf5Ql+D9taJrRiWuuoNk5L0xg==
---- END SIGNATURE ---
